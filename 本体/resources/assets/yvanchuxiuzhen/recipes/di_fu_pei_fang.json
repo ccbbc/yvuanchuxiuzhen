@@ -1,0 +1,28 @@
+{
+  "group": "yvanchuxiuzhen",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "yvanchuliandan:cai_liao_01"
+    },
+    {
+      "item": "minecraft:obsidian"
+    }
+  ],
+  "result": {
+    "item": "yvanchuxiuzhen:fangkuai68",
+    "count": 5
+  }
+}

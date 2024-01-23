@@ -1,0 +1,6 @@
+{
+  "parent": "yvanchuliandan:custom/xiao_lv_ping",
+  "textures": {
+    "0": "yvanchuliandan:blocks/xiao_lv_ping"
+  }
+}

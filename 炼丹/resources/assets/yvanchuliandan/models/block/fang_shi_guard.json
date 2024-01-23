@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "yvanchuliandan:blocks/shou_mu_chun_-1",
+    "up": "yvanchuliandan:blocks/shou_mu_chun_-1",
+    "north": "yvanchuliandan:blocks/shou_mu_chun_-1",
+    "east": "yvanchuliandan:blocks/shou_mu_chun_-1",
+    "south": "yvanchuliandan:blocks/shou_mu_chun_-1",
+    "west": "yvanchuliandan:blocks/shou_mu_chun_-1",
+    "particle": "yvanchuliandan:blocks/shou_mu_chun_-1"
+  }
+}

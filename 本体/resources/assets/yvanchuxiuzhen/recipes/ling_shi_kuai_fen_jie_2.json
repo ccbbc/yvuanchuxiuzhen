@@ -1,0 +1,13 @@
+{
+  "group": "yvanchuxiuzhen",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_2"
+    }
+  ],
+  "result": {
+    "item": "yvanchuxiuzhen:cailiaolingshi05",
+    "count": 9
+  }
+}

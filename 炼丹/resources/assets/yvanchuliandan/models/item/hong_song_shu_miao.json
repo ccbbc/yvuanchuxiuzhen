@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "yvanchuliandan:items/hong_song_shu_shu_miao_"
+  }
+}

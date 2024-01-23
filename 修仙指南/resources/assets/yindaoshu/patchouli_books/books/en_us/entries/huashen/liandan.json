@@ -1,0 +1,12 @@
+{
+    "name": "炼丹",
+    "icon": "minecraft:writable_book",
+    "category": "huashen",
+	"sortnum": 1, 
+    "pages": [
+        {
+            "type": "text",
+            "text": "当前境界你可以炼制以下丹药：$(br)焕心丹，造化丹，千年还魂丹，千年玄元丹 ，千年赤血丹，千年洗骨丹，千年润泽丹，千年广陵丹 ，千年融灵丹，千年腾龙丹，千年护脉丹，千年金还丹，返命丹。。"
+        }
+    ]
+}

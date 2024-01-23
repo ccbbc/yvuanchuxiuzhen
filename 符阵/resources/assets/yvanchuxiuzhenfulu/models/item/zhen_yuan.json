@@ -1,0 +1,6 @@
+{
+  "parent": "yvanchuxiuzhenfulu:custom/zhenfa02",
+  "textures": {
+    "0": "yvanchuxiuzhenfulu:blocks/zhenfa0101"
+  }
+}

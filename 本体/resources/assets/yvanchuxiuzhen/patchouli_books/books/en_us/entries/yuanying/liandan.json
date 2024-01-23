@@ -1,0 +1,12 @@
+{
+    "name": "炼丹",
+    "icon": "minecraft:writable_book",
+    "category": "yuanying",
+	"sortnum": 1, 
+    "pages": [
+        {
+            "type": "text",
+            "text": "当前境界你可以炼制以下丹药：$(br)绎云丹，培婴丹 ，还魂丹，玄元丹，赤血丹，洗骨丹，润泽丹 ，广陵丹 ，百年融灵丹，腾龙丹，护脉丹，金还丹，长生丹。"
+        }
+    ]
+}

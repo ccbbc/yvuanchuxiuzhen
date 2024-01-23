@@ -1,0 +1,26 @@
+{
+  "group": "yvanchuxiuzhen",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_1"
+    },
+    "1": {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_1"
+    },
+    "2": {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_1"
+    },
+    "3": {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_1"
+    }
+  },
+  "result": {
+    "item": "yvanchuxiuzhen:ling_shi_zhuan_1",
+    "count": 4
+  }
+}

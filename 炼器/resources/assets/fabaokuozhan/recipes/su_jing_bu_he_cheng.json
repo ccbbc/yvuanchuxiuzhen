@@ -1,0 +1,30 @@
+{
+  "group": "fabaokuozhan",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "fabaokuozhan:caiitem08"
+    },
+    "3": {
+      "item": "fabaokuozhan:caiitem08"
+    },
+    "4": {
+      "item": "fabaokuozhan:pi_xie_jia_dan"
+    },
+    "5": {
+      "item": "fabaokuozhan:caiitem08"
+    },
+    "7": {
+      "item": "fabaokuozhan:caiitem08"
+    }
+  },
+  "result": {
+    "item": "fabaokuozhan:su_jin_bu",
+    "count": 1
+  }
+}

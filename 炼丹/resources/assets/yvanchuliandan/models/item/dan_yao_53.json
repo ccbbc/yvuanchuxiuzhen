@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "yvanchuliandan:items/jin_huan_dan_"
+  }
+}

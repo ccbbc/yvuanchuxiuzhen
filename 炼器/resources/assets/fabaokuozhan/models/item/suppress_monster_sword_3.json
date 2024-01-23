@@ -1,0 +1,6 @@
+{
+  "parent": "fabaokuozhan:custom/qing_yu_huan_xin_jian",
+  "textures": {
+    "0": "fabaokuozhan:blocks/qing_yu_huan_xin_jian"
+  }
+}

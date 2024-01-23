@@ -1,0 +1,6 @@
+{
+  "parent": "yvanchuliandan:custom/jiu_ju_3(kong_)",
+  "textures": {
+    "0": "yvanchuliandan:blocks/jiu_ju_3"
+  }
+}

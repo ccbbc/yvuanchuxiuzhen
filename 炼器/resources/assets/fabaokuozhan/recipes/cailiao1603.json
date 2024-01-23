@@ -1,0 +1,16 @@
+{
+  "group": "fabaokuozhan",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "fabaokuozhan:cailiao1601"
+    }
+  },
+  "result": {
+    "item": "fabaokuozhan:cailiao16",
+    "count": 9
+  }
+}

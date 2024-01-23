@@ -1,0 +1,16 @@
+{
+  "group": "diguoshidai",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "diguoshidai:bookshuoming"
+    },
+    {
+      "item": "minecraft:potion"
+    }
+  ],
+  "result": {
+    "item": "diguoshidai:book4liandan",
+    "count": 1
+  }
+}

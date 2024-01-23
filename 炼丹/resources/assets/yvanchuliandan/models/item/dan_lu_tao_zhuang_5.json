@@ -1,0 +1,8 @@
+{
+  "parent": "yvanchuliandan:custom/liandan0501",
+  "textures": {
+    "0": "yvanchuliandan:blocks/liandan0201",
+    "1": "yvanchuliandan:blocks/liandan0202",
+    "2": "yvanchuliandan:blocks/liandan0203"
+  }
+}

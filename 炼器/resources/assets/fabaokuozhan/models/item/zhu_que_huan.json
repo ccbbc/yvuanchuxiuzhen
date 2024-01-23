@@ -1,0 +1,7 @@
+{
+  "parent": "fabaokuozhan:custom/zhu_que_huan",
+  "textures": {
+    "0": "fabaokuozhan:blocks/zhu_que_huan1",
+    "1": "fabaokuozhan:blocks/zhu_que_huan2"
+  }
+}

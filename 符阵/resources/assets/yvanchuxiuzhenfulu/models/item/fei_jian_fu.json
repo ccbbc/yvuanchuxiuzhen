@@ -1,0 +1,6 @@
+{
+  "parent": "yvanchuxiuzhenfulu:custom/fu_bao_",
+  "textures": {
+    "missing": "yvanchuxiuzhenfulu:blocks/fubao"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "fabaokuozhan:custom/liandan001",
+  "textures": {
+    "all": "fabaokuozhan:blocks/liandan00101",
+    "particle": "fabaokuozhan:blocks/liandan00101",
+    "0": "fabaokuozhan:blocks/liandan00101",
+    "1": "fabaokuozhan:blocks/liandan00102"
+  }
+}

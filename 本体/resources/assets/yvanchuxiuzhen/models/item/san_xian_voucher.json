@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "yvanchuxiuzhen:items/yu_pai_dan_yao_dui_huan_quan_"
+  }
+}

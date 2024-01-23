@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "yvanchuxiuzhenfulu:zhenfaqizhi02"
+    },
+    "facing=north": {
+      "model": "yvanchuxiuzhenfulu:zhenfaqizhi02"
+    },
+    "facing=east": {
+      "model": "yvanchuxiuzhenfulu:zhenfaqizhi02",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "yvanchuxiuzhenfulu:zhenfaqizhi02",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "yvanchuxiuzhenfulu:zhenfaqizhi02",
+      "y": 270
+    }
+  }
+}

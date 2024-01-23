@@ -1,0 +1,12 @@
+{
+    "name": "阵法",
+    "icon": "minecraft:writable_book",
+    "category": "jiedan",
+	"sortnum": 4, 
+    "pages": [
+        {
+            "type": "text",
+            "text": "当前境界可以制作如下阵法：$(br)禁绝阵,高级护山阵。"
+        }
+    ]
+}

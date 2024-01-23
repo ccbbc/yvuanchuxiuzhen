@@ -1,0 +1,26 @@
+{
+  "group": "yvanchuliandan",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345"
+  ],
+  "key": {
+    "1": {
+      "item": "yvanchuliandan:liandan0102"
+    },
+    "3": {
+      "item": "fabaokuozhan:cailiao11"
+    },
+    "4": {
+      "item": "fabaokuozhan:cailiao11"
+    },
+    "5": {
+      "item": "fabaokuozhan:cailiao11"
+    }
+  },
+  "result": {
+    "item": "yvanchuliandan:liandan0202",
+    "count": 1
+  }
+}

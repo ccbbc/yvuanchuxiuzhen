@@ -1,0 +1,16 @@
+{
+  "group": "yvanchuxiuzhen",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "yvanchuxiuzhen:cailiaolingshi09"
+    }
+  },
+  "result": {
+    "item": "yvanchuxiuzhen:cailiaolingshi08",
+    "count": 3
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "酿酒",
+    "icon": "minecraft:writable_book",
+    "category": "jiedan",
+	"sortnum": 5, 
+    "pages": [
+        {
+            "type": "text",
+            "text": "当前境界可以酿造'碧焰酒'。"
+        }
+    ]
+}

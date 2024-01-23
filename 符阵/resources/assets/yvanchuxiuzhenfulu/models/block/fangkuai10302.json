@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "yvanchuxiuzhenfulu:blocks/leaves_peach",
+    "up": "yvanchuxiuzhenfulu:blocks/leaves_peach",
+    "north": "yvanchuxiuzhenfulu:blocks/leaves_peach",
+    "east": "yvanchuxiuzhenfulu:blocks/leaves_peach",
+    "south": "yvanchuxiuzhenfulu:blocks/leaves_peach",
+    "west": "yvanchuxiuzhenfulu:blocks/leaves_peach",
+    "particle": "yvanchuxiuzhenfulu:blocks/leaves_peach"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "yvanchuliandan:custom/liandan0601",
+  "textures": {
+    "all": "yvanchuliandan:blocks/liandan0303",
+    "particle": "yvanchuliandan:blocks/liandan0303",
+    "0": "yvanchuliandan:blocks/liandan0301",
+    "1": "yvanchuliandan:blocks/liandan0302",
+    "2": "yvanchuliandan:blocks/liandan0303"
+  }
+}

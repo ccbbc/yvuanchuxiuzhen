@@ -1,0 +1,12 @@
+{
+    "name": "采集灵石与矿物",
+    "icon": "minecraft:writable_book",
+    "category": "fanren",
+	"sortnum": 2,
+    "pages": [
+        {
+            "type": "text",
+            "text": "你可以制作千灵万脉镐子来挖掘藏在地下的丰富灵石与其它矿物。"
+        }
+    ]
+}

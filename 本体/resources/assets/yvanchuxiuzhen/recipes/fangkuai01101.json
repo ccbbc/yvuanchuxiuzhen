@@ -1,0 +1,39 @@
+{
+  "group": "yvanchuxiuzhen",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "yvanchuxiuzhen:fangkuai005"
+    },
+    "1": {
+      "item": "minecraft:gold_ingot"
+    },
+    "2": {
+      "item": "yvanchuxiuzhen:fangkuai005"
+    },
+    "3": {
+      "item": "minecraft:gold_ingot"
+    },
+    "5": {
+      "item": "minecraft:gold_ingot"
+    },
+    "6": {
+      "item": "yvanchuxiuzhen:fangkuai005"
+    },
+    "7": {
+      "item": "minecraft:gold_ingot"
+    },
+    "8": {
+      "item": "yvanchuxiuzhen:fangkuai005"
+    }
+  },
+  "result": {
+    "item": "yvanchuxiuzhen:fangkuai011",
+    "count": 8
+  }
+}

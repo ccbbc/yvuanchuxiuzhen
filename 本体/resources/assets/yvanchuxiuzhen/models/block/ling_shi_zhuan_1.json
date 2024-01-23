@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "yvanchuxiuzhen:blocks/ling_shi_zhuan_1",
+    "up": "yvanchuxiuzhen:blocks/ling_shi_zhuan_1",
+    "north": "yvanchuxiuzhen:blocks/ling_shi_zhuan_1",
+    "east": "yvanchuxiuzhen:blocks/ling_shi_zhuan_1",
+    "south": "yvanchuxiuzhen:blocks/ling_shi_zhuan_1",
+    "west": "yvanchuxiuzhen:blocks/ling_shi_zhuan_1",
+    "particle": "yvanchuxiuzhen:blocks/ling_shi_zhuan_1"
+  }
+}

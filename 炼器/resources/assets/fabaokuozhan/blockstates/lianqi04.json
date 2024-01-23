@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "fabaokuozhan:lianqi04"
+    },
+    "facing=north": {
+      "model": "fabaokuozhan:lianqi04"
+    },
+    "facing=east": {
+      "model": "fabaokuozhan:lianqi04",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "fabaokuozhan:lianqi04",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fabaokuozhan:lianqi04",
+      "y": 270
+    }
+  }
+}

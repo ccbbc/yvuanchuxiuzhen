@@ -1,0 +1,2 @@
+commands.attribute.usage=attribute <attribute name> <entity name> <attribute value> set property values for an entity.
+commands.customEntityData.usage=customEntityData <entity name> <attribute name> <attribute value> set property values for an entity.

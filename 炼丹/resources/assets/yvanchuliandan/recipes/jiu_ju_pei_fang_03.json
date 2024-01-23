@@ -1,0 +1,27 @@
+{
+  "group": "yvanchuliandan",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:emerald"
+    },
+    "2": {
+      "item": "minecraft:emerald"
+    },
+    "4": {
+      "item": "fabaokuozhan:cailiao11"
+    },
+    "7": {
+      "item": "fabaokuozhan:cailiao11"
+    }
+  },
+  "result": {
+    "item": "yvanchuliandan:jiu_ju_03",
+    "count": 1
+  }
+}

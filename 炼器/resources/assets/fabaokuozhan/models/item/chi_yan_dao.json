@@ -1,0 +1,6 @@
+{
+  "parent": "fabaokuozhan:custom/chi_yan_dao_1",
+  "textures": {
+    "0": "fabaokuozhan:blocks/chi_yan_dao_1"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "yvanchuxiuzhen:custom/open_book",
+  "textures": {
+    "all": "yvanchuxiuzhen:blocks/open_book",
+    "particle": "yvanchuxiuzhen:blocks/open_book",
+    "1": "yvanchuxiuzhen:blocks/open_book"
+  }
+}

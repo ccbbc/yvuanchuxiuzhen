@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "fabaokuozhan:items/fu_shi_ling_yuan_"
+  }
+}

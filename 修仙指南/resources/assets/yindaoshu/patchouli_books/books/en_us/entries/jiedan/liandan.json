@@ -1,0 +1,17 @@
+{
+    "name": "炼丹",
+    "icon": "minecraft:writable_book",
+    "category": "jiedan",
+	"sortnum": 1, 
+    "pages": [
+        {
+            "type": "text",
+            "text": "当前境界你可以炼制以下丹药：$(br)增元丹，昊元丹，千年回春丹，千年复灵丹 ，千年龙力丹，千年金刚丹，千年淬体丹 ，千年元阳丹，融灵丹，千年九曲灵丹，千年檀香丹，千年古香丹，益寿丹。"
+        },
+		{
+			"type":"text",
+			"text":"秘境可获得'补天丹','混元丹'。",
+			"right_side":"true"
+		}
+    ]
+}

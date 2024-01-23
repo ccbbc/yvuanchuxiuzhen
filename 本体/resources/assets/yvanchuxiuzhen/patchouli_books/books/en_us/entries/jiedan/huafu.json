@@ -1,0 +1,12 @@
+{
+    "name": "画符",
+    "icon": "minecraft:writable_book",
+    "category": "jiedan",
+	"sortnum": 3, 
+    "pages": [
+        {
+            "type": "text",
+            "text": "当前境界可以制作如下符箓：$(br)震山符，纵横火符，飞行符，飞剑符，飓风符，铁甲符,高级云图符。$(br)储物袋获得：强压符。"
+        }
+    ]
+}

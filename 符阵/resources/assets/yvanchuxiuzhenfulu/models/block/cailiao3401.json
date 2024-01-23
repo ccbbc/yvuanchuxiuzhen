@@ -1,0 +1,8 @@
+{
+  "parent": "yvanchuxiuzhenfulu:custom/cailiao34",
+  "textures": {
+    "all": "yvanchuxiuzhenfulu:blocks/cailiao3401",
+    "particle": "yvanchuxiuzhenfulu:blocks/cailiao3401",
+    "0": "yvanchuxiuzhenfulu:blocks/cailiao34"
+  }
+}

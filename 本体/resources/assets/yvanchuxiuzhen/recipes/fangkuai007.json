@@ -1,0 +1,45 @@
+{
+  "group": "yvanchuxiuzhen",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "yvanchuxiuzhen:fangkuai001"
+    },
+    "1": {
+      "item": "minecraft:quartz_block",
+      "data": 32767
+    },
+    "2": {
+      "item": "yvanchuxiuzhen:fangkuai001"
+    },
+    "3": {
+      "item": "yvanchuxiuzhen:fangkuai001"
+    },
+    "4": {
+      "item": "minecraft:quartz_block",
+      "data": 32767
+    },
+    "5": {
+      "item": "yvanchuxiuzhen:fangkuai001"
+    },
+    "6": {
+      "item": "yvanchuxiuzhen:fangkuai001"
+    },
+    "7": {
+      "item": "minecraft:quartz_block",
+      "data": 32767
+    },
+    "8": {
+      "item": "yvanchuxiuzhen:fangkuai001"
+    }
+  },
+  "result": {
+    "item": "yvanchuxiuzhen:fangkuai00701",
+    "count": 2
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "yvanchuyaoshou:blocks/caientity1303",
+    "particle": "yvanchuyaoshou:blocks/caientity1303"
+  }
+}

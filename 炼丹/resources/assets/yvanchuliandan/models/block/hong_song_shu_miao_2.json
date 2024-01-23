@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "yvanchuliandan:blocks/hong_song_shu_shu_miao_",
+    "particle": "yvanchuliandan:blocks/hong_song_shu_shu_miao_"
+  }
+}

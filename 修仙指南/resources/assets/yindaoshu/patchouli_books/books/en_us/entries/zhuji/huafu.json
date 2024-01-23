@@ -1,0 +1,12 @@
+{
+    "name": "画符",
+    "icon": "minecraft:writable_book",
+    "category": "zhuji",
+	"sortnum": 3, 
+    "pages": [
+        {
+            "type": "text",
+            "text": "当前境界可以制作如下符箓：$(br)剑阵符，护盾符，落雷符，晶牢符，中级云图符。"
+        }
+    ]
+}

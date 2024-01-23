@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "yvanchuliandan:cao_yao_8104"
+    },
+    "facing=north": {
+      "model": "yvanchuliandan:cao_yao_8104"
+    },
+    "facing=east": {
+      "model": "yvanchuliandan:cao_yao_8104",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "yvanchuliandan:cao_yao_8104",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "yvanchuliandan:cao_yao_8104",
+      "y": 270
+    }
+  }
+}

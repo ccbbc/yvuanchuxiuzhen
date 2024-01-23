@@ -1,0 +1,16 @@
+{
+  "group": "diguoshidai",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "diguoshidai:bookshuoming"
+    },
+    {
+      "tag": "minecraft:banners"
+    }
+  ],
+  "result": {
+    "item": "diguoshidai:book5zhenfa",
+    "count": 1
+  }
+}

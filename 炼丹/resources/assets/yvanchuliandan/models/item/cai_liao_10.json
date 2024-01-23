@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "yvanchuliandan:items/jing_xie_3"
+  }
+}

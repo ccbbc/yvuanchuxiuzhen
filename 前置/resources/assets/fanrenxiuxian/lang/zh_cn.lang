@@ -1,0 +1,2 @@
+commands.attribute.usage=attribute <属性名字> <实体名字> <属性值> 设置实体的属性值。
+commands.customEntityData.usage=customEntityData <实体名字> <属性名字> <属性值> 设置实体的属性值。

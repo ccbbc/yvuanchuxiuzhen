@@ -1,0 +1,9 @@
+{
+  "parent": "yvanchuxiuzhenfulu:custom/zhenfa01",
+  "textures": {
+    "all": "yvanchuxiuzhenfulu:blocks/zhenfa01",
+    "particle": "yvanchuxiuzhenfulu:blocks/zhenfa01",
+    "0": "yvanchuxiuzhenfulu:blocks/zhenfa01",
+    "1": "yvanchuxiuzhenfulu:blocks/zhenfa0101"
+  }
+}

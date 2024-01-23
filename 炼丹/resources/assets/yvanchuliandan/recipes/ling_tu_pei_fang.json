@@ -1,0 +1,17 @@
+{
+  "group": "yvanchuliandan",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "yvanchuxiuzhen:cailiaolingshi03"
+    },
+    {
+      "item": "minecraft:dirt",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "yvanchuliandan:ling_tu",
+    "count": 1
+  }
+}

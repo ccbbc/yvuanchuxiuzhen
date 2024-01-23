@@ -1,0 +1,35 @@
+{
+  "group": "yvanchuxiuzhen",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:log",
+      "data": 32767
+    },
+    "1": {
+      "item": "minecraft:log",
+      "data": 32767
+    },
+    "2": {
+      "item": "minecraft:log",
+      "data": 32767
+    },
+    "4": {
+      "item": "minecraft:log",
+      "data": 32767
+    },
+    "7": {
+      "item": "minecraft:log",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "yvanchuxiuzhen:da_mu_zhuo",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "fabaokuozhan:custom/yuanci",
+  "textures": {
+    "2": "fabaokuozhan:blocks/shan_wenjian1",
+    "3": "fabaokuozhan:blocks/shan_wenjian2"
+  }
+}

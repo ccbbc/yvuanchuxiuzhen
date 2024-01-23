@@ -1,0 +1,12 @@
+{
+    "name": "画符",
+    "icon": "minecraft:writable_book",
+    "category": "huashen",
+	"sortnum": 3, 
+    "pages": [
+        {
+            "type": "text",
+            "text": "当前境界可以制作如下符箓：$(br)撼地符（符宝），雷击符，无量盾符，撼地符（真宝），混沌箭矢符,太极云图符。"
+        }
+    ]
+}

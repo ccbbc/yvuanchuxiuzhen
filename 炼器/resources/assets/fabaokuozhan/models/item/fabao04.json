@@ -1,0 +1,6 @@
+{
+  "parent": "fabaokuozhan:custom/qing_hong_jian_1",
+  "textures": {
+    "1": "fabaokuozhan:blocks/qing_hong_jian_1"
+  }
+}

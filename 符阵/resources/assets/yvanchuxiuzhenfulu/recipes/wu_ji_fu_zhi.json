@@ -1,0 +1,28 @@
+{
+  "group": "yvanchuxiuzhenfulu",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "yvanchuliandan:caoyao_1802"
+    },
+    {
+      "item": "yvanchuliandan:cao_yao_202"
+    },
+    {
+      "item": "yvanchuliandan:caoyao_1802"
+    },
+    {
+      "item": "yvanchuliandan:caoyao_1802"
+    },
+    {
+      "item": "yvanchuliandan:caoyao_1802"
+    },
+    {
+      "item": "yvanchuliandan:caoyao_1802"
+    }
+  ],
+  "result": {
+    "item": "yvanchuxiuzhenfulu:fu_zhi_5",
+    "count": 5
+  }
+}

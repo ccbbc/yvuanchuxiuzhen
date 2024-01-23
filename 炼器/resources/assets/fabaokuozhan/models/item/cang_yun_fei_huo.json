@@ -1,0 +1,6 @@
+{
+  "parent": "fabaokuozhan:custom/cang_yun_fei_huo_1",
+  "textures": {
+    "0": "fabaokuozhan:blocks/cang_yun_fei_huo_1"
+  }
+}

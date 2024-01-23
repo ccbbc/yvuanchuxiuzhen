@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "yvanchuxiuzhen:l0801"
+    },
+    "title": {
+      "translate": "advancements.l08.title"
+    },
+    "description": {
+      "translate": "advancements.l08.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "l08": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "yvanchuxiuzhen:l07"
+}

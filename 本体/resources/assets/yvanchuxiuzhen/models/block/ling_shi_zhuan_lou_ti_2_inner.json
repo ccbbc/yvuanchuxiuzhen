@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "yvanchuxiuzhen:blocks/ling_shi_zhuan_2",
+    "top": "yvanchuxiuzhen:blocks/ling_shi_zhuan_2",
+    "side": "yvanchuxiuzhen:blocks/ling_shi_zhuan_2"
+  }
+}

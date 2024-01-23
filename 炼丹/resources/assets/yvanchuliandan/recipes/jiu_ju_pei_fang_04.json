@@ -1,0 +1,36 @@
+{
+  "group": "yvanchuliandan",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_ingot"
+    },
+    "2": {
+      "item": "minecraft:gold_ingot"
+    },
+    "3": {
+      "item": "fabaokuozhan:cailiao14"
+    },
+    "5": {
+      "item": "fabaokuozhan:cailiao14"
+    },
+    "6": {
+      "item": "minecraft:gold_ingot"
+    },
+    "7": {
+      "item": "minecraft:gold_ingot"
+    },
+    "8": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "yvanchuliandan:jiu_ju_04",
+    "count": 1
+  }
+}

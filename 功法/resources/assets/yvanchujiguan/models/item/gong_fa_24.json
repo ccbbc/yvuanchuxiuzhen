@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "yvanchujiguan:items/shou_pi_zhi_lue_suo_tie_tu_16x"
+  }
+}

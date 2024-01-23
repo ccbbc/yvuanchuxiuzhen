@@ -1,0 +1,6 @@
+{
+  "parent": "fabaokuozhan:custom/jin_gu_bang_1",
+  "textures": {
+    "0": "fabaokuozhan:blocks/jin_gu_bang_1"
+  }
+}

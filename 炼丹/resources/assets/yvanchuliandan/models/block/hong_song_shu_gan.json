@@ -1,0 +1,9 @@
+{
+  "parent": "yvanchuliandan:custom/hong_song_shu_shu_gan_",
+  "textures": {
+    "all": "yvanchuliandan:blocks/hong_song_shu__top",
+    "particle": "yvanchuliandan:blocks/hong_song_shu__top",
+    "2": "yvanchuliandan:blocks/hong_song_shu__around",
+    "3": "yvanchuliandan:blocks/hong_song_shu__top"
+  }
+}

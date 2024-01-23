@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "yvanchuxiuzhenfulu:blocks/fangkuai10204",
+    "particle": "yvanchuxiuzhenfulu:blocks/fangkuai10204"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "yvanchuxiuzhen:l0501"
+    },
+    "title": {
+      "translate": "advancements.l05.title"
+    },
+    "description": {
+      "translate": "advancements.l05.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "l05": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "yvanchuxiuzhen:l04"
+}

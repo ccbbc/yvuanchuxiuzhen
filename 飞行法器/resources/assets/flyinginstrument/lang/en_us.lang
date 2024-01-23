@@ -1,0 +1,16 @@
+key.flyinginstrument.down=flying instrument down
+
+itemGroup.flyinginstrument.tab=Flying Instrument
+
+item.flyinginstrument.gold_sword.name=Gold Sword
+item.flyinginstrument.wood_sword.name=Wood Sword
+item.flyinginstrument.water_sword.name=Water Sword
+item.flyinginstrument.fire_sword.name=Fire Sword
+item.flyinginstrument.soil_sword.name=Soil Sword
+item.flyinginstrument.leaf.name=Leaf
+item.flyinginstrument.gourd.name=Gourd
+item.flyinginstrument.boat.name=Boat
+item.flyinginstrument.blue_point_sword.name=Blue Point Sword
+item.flyinginstrument.shan_he_tu.name=Mountain And River Diagram
+
+message.flyinginstrument.power=Power Depleted

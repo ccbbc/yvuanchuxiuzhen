@@ -1,0 +1,8 @@
+{
+  "parent": "yvanchuxiuzhen:custom/shi_bei",
+  "textures": {
+    "all": "yvanchuxiuzhen:blocks/ling_shi_kuai_1",
+    "particle": "yvanchuxiuzhen:blocks/ling_shi_kuai_1",
+    "1": "yvanchuxiuzhen:blocks/shi_bei"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "yvanchuxiuzhen:weimian02_portal_ew"
+    },
+    "axis=x": {
+      "model": "yvanchuxiuzhen:weimian02_portal_ns"
+    },
+    "inventory": {
+      "model": "yvanchuxiuzhen:weimian02_portal_ns"
+    }
+  }
+}

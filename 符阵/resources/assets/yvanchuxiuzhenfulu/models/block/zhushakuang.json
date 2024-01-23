@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "yvanchuxiuzhenfulu:blocks/zhushakuang",
+    "up": "yvanchuxiuzhenfulu:blocks/zhushakuang",
+    "north": "yvanchuxiuzhenfulu:blocks/zhushakuang",
+    "east": "yvanchuxiuzhenfulu:blocks/zhushakuang",
+    "south": "yvanchuxiuzhenfulu:blocks/zhushakuang",
+    "west": "yvanchuxiuzhenfulu:blocks/zhushakuang",
+    "particle": "yvanchuxiuzhenfulu:blocks/zhushakuang"
+  }
+}

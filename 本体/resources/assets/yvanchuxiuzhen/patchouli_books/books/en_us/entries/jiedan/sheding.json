@@ -1,0 +1,12 @@
+{
+    "name": "设定",
+    "icon": "minecraft:writable_book",
+    "category": "jiedan",
+	"sortnum": 0, 
+    "pages": [
+        {
+            "type": "text",
+            "text": "当前境界可以直接使用灵力飞行，只需快速按两下空格即可，同时可以使用药锄采集中级草药丛。$(br)当前境界后可以前往地狱寻找结丹修士。"
+        }
+    ]
+}

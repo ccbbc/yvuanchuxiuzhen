@@ -1,0 +1,47 @@
+{
+  "fabao0101": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "fabaokuozhan:fabao0101",
+        "stream": false
+      }
+    ]
+  },
+  "fabao0501": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "fabaokuozhan:fabao0501",
+        "stream": false
+      }
+    ]
+  },
+  "fabao0502": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "fabaokuozhan:fabao0502",
+        "stream": false
+      }
+    ]
+  },
+  "fabao0102": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "fabaokuozhan:fabao0102",
+        "stream": false
+      }
+    ]
+  },
+  "fabao0301": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "fabaokuozhan:fabao0301",
+        "stream": false
+      }
+    ]
+  }
+}

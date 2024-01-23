@@ -1,0 +1,8 @@
+{
+  "parent": "yvanchuliandan:custom/nu_xing_shang_ren_1",
+  "textures": {
+    "all": "yvanchuliandan:blocks/cailiaolingshi1",
+    "particle": "yvanchuliandan:blocks/cailiaolingshi1",
+    "missing": "yvanchuliandan:blocks/nu_xing_shang_ren_1"
+  }
+}

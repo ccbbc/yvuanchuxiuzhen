@@ -1,0 +1,8 @@
+{
+  "parent": "yvanchuliandan:custom/ling_jiao_hua_-1",
+  "textures": {
+    "all": "yvanchuliandan:blocks/ling_jiao_hua_-3",
+    "particle": "yvanchuliandan:blocks/ling_jiao_hua_-3",
+    "0": "yvanchuliandan:blocks/ling_jiao_hua_-3"
+  }
+}

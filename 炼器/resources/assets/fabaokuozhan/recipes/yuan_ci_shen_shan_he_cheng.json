@@ -1,0 +1,42 @@
+{
+  "group": "fabaokuozhan",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "yvanchujiguan:yuan_ci_shi"
+    },
+    "1": {
+      "item": "yvanchujiguan:yuan_ci_shi"
+    },
+    "2": {
+      "item": "yvanchujiguan:yuan_ci_shi"
+    },
+    "3": {
+      "item": "yvanchujiguan:yuan_ci_shi"
+    },
+    "4": {
+      "item": "yvanchujiguan:yuan_ci_shi"
+    },
+    "5": {
+      "item": "yvanchujiguan:yuan_ci_shi"
+    },
+    "6": {
+      "item": "yvanchujiguan:yuan_ci_shi"
+    },
+    "7": {
+      "item": "yvanchujiguan:yuan_ci_shi"
+    },
+    "8": {
+      "item": "yvanchujiguan:yuan_ci_shi"
+    }
+  },
+  "result": {
+    "item": "fabaokuozhan:yuan_ci_shen_shan",
+    "count": 1
+  }
+}

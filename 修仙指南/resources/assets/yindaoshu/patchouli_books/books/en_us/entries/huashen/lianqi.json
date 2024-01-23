@@ -1,0 +1,12 @@
+{
+    "name": "炼器",
+    "icon": "minecraft:writable_book",
+    "category": "huashen",
+	"sortnum": 2, 
+    "pages": [
+        {
+            "type": "text",
+            "text": "当前境界你可以炼制如下法宝：$(br)撼地锤，混沌战弓，裂虎爪，雷击木剑，苍云飞火，五阶镇妖剑。$(br)其中防具'碧海无量盾'，'阴阳两仪袍'，'锁子黄金甲'则需要使用赋灵台制作。"
+        }
+    ]
+}

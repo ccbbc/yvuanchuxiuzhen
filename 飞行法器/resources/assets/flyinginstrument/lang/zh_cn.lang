@@ -1,0 +1,17 @@
+key.flyinginstrument.down=飞剑下降
+
+itemGroup.flyinginstrument.tab=飞行法器
+
+item.flyinginstrument.gold_sword.name=§e§l金相剑
+item.flyinginstrument.wood_sword.name=§a§l木相剑
+item.flyinginstrument.water_sword.name=§b§l水相剑
+item.flyinginstrument.fire_sword.name=§c§l火相剑
+item.flyinginstrument.soil_sword.name=§6§l土相剑
+item.flyinginstrument.leaf.name=§a§l青木叶
+item.flyinginstrument.gourd.name=§c§l云海葫芦
+item.flyinginstrument.boat.name=§b§l御风舟
+item.flyinginstrument.blue_point_sword.name=§a§l青锋剑
+item.flyinginstrument.shan_he_tu.name=§a§l山河图
+
+message.flyinginstrument.power=灵气枯竭
+message.flyinginstrument.use.flysword.fail=目前灵力不足以驱使飞行法器

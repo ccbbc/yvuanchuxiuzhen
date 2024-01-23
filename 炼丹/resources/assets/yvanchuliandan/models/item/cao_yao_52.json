@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "yvanchuliandan:items/caoyao-05-3_fu_ben_"
+  }
+}

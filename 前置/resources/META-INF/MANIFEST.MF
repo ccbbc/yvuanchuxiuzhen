@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: 前置源码2021.1.13
+Implementation-Version: 1.2.5
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2024-01-13T17:52:51+0800
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+

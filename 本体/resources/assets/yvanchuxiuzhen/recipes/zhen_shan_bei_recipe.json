@@ -1,0 +1,42 @@
+{
+  "group": "yvanchuxiuzhen",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "yvanchuxiuzhenfulu:cloud_map_charm_1"
+    },
+    "1": {
+      "item": "fabaokuozhan:caiitem04"
+    },
+    "2": {
+      "item": "fabaokuozhan:suppress_monster_sword_1"
+    },
+    "3": {
+      "item": "minecraft:cobblestone"
+    },
+    "4": {
+      "item": "yvanchuxiuzhenfulu:protect_sect_front_01"
+    },
+    "5": {
+      "item": "minecraft:cobblestone"
+    },
+    "6": {
+      "item": "minecraft:cobblestone"
+    },
+    "7": {
+      "item": "minecraft:cobblestone"
+    },
+    "8": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "yvanchuxiuzhen:zhen_shan_bei",
+    "count": 1
+  }
+}

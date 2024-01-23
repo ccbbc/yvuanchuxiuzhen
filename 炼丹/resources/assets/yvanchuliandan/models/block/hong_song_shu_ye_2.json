@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "yvanchuliandan:blocks/hong_song_shu_xie_you_guo_shi_",
+    "up": "yvanchuliandan:blocks/hong_song_shu_xie_you_guo_shi_",
+    "north": "yvanchuliandan:blocks/hong_song_shu_xie_you_guo_shi_",
+    "east": "yvanchuliandan:blocks/hong_song_shu_xie_you_guo_shi_",
+    "south": "yvanchuliandan:blocks/hong_song_shu_xie_you_guo_shi_",
+    "west": "yvanchuliandan:blocks/hong_song_shu_xie_you_guo_shi_",
+    "particle": "yvanchuliandan:blocks/hong_song_shu_xie_you_guo_shi_"
+  }
+}

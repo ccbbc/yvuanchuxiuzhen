@@ -1,0 +1,8 @@
+{
+  "parent": "yvanchuxiuzhen:custom/mu_yi",
+  "textures": {
+    "all": "yvanchuxiuzhen:blocks/mu_yi",
+    "particle": "yvanchuxiuzhen:blocks/mu_yi",
+    "0": "yvanchuxiuzhen:blocks/mu_yi"
+  }
+}

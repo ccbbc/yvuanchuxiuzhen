@@ -1,0 +1,8 @@
+{
+  "parent": "yvanchuxiuzhen:custom/shi_zhuo",
+  "textures": {
+    "all": "yvanchuxiuzhen:blocks/shi_zhuo",
+    "particle": "yvanchuxiuzhen:blocks/shi_zhuo",
+    "0": "yvanchuxiuzhen:blocks/shi_zhuo"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "yvanchuliandan:hong_song_shu_miao_2"
+    },
+    "facing=north": {
+      "model": "yvanchuliandan:hong_song_shu_miao_2"
+    },
+    "facing=east": {
+      "model": "yvanchuliandan:hong_song_shu_miao_2",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "yvanchuliandan:hong_song_shu_miao_2",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "yvanchuliandan:hong_song_shu_miao_2",
+      "y": 270
+    }
+  }
+}

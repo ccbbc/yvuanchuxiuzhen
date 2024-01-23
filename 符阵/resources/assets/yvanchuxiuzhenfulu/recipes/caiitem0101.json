@@ -1,0 +1,30 @@
+{
+  "group": "yvanchuxiuzhenfulu",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "yvanchuxiuzhenfulu:cailiao32"
+    },
+    "3": {
+      "item": "yvanchuxiuzhenfulu:cailiao32"
+    },
+    "4": {
+      "item": "minecraft:paper"
+    },
+    "5": {
+      "item": "yvanchuxiuzhenfulu:cailiao32"
+    },
+    "7": {
+      "item": "yvanchuxiuzhenfulu:cailiao32"
+    }
+  },
+  "result": {
+    "item": "yvanchuxiuzhenfulu:caiitem01",
+    "count": 1
+  }
+}

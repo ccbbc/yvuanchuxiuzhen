@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: feixinfaqi
+Implementation-Version: 1.9.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2023-11-23T15:28:30+0800
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+

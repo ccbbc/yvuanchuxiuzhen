@@ -1,0 +1,8 @@
+{
+  "parent": "yvanchuliandan:custom/mu_chun_hua_-2",
+  "textures": {
+    "all": "yvanchuliandan:blocks/mu_chun_hua_-1",
+    "particle": "yvanchuliandan:blocks/mu_chun_hua_-1",
+    "0": "yvanchuliandan:blocks/mu_chun_hua_-2"
+  }
+}

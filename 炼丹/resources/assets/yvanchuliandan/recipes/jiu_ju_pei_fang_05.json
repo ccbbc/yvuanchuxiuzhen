@@ -1,0 +1,33 @@
+{
+  "group": "yvanchuliandan",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fabaokuozhan:cailiao11"
+    },
+    "2": {
+      "item": "fabaokuozhan:cailiao11"
+    },
+    "4": {
+      "item": "fabaokuozhan:cailiao11"
+    },
+    "6": {
+      "item": "fabaokuozhan:cailiao13"
+    },
+    "7": {
+      "item": "fabaokuozhan:cailiao13"
+    },
+    "8": {
+      "item": "fabaokuozhan:cailiao13"
+    }
+  },
+  "result": {
+    "item": "yvanchuliandan:jiu_ju_05",
+    "count": 1
+  }
+}

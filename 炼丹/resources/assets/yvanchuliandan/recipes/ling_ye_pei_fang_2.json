@@ -1,0 +1,39 @@
+{
+  "group": "yvanchuliandan",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_1"
+    },
+    {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_1"
+    },
+    {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_1"
+    },
+    {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_1"
+    },
+    {
+      "item": "minecraft:potion",
+      "data": 32767
+    },
+    {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_1"
+    },
+    {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_1"
+    },
+    {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_1"
+    },
+    {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_1"
+    }
+  ],
+  "result": {
+    "item": "yvanchuliandan:ling_ye",
+    "nbt": {"TotalTimes" : 72},
+    "count": 1
+  }
+}

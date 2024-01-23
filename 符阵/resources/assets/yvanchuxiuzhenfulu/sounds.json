@@ -1,0 +1,20 @@
+{
+  "fulufashe": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "yvanchuxiuzhenfulu:fulufashe",
+        "stream": false
+      }
+    ]
+  },
+  "fulu1602": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "yvanchuxiuzhenfulu:fulu1602",
+        "stream": false
+      }
+    ]
+  }
+}

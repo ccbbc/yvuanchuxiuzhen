@@ -1,0 +1,43 @@
+{
+  "group": "yvanchuliandan",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_2"
+    },
+    "1": {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_2"
+    },
+    "2": {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_2"
+    },
+    "3": {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_2"
+    },
+    "4": {
+      "item": "yvanchuliandan:jing_chun_ling_ye"
+    },
+    "5": {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_2"
+    },
+    "6": {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_2"
+    },
+    "7": {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_2"
+    },
+    "8": {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_2"
+    }
+  },
+  "result": {
+    "item": "yvanchuliandan:jing_chun_ling_ye",
+    "nbt": {"TotalTimes" : 72},
+    "count": 1
+  }
+}

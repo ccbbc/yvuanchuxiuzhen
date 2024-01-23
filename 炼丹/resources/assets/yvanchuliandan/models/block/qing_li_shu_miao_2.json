@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "yvanchuliandan:blocks/qing_li_shu_shu_miao_",
+    "particle": "yvanchuliandan:blocks/qing_li_shu_shu_miao_"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "yvanchuxiuzhenfulu:custom/[dynamic]clan_formation_disk",
+  "textures": {
+    "0": "yvanchuxiuzhenfulu:blocks/zhenfapan2"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "yvanchuxiuzhenfulu:custom/zhifutai",
+  "textures": {
+    "all": "yvanchuxiuzhenfulu:blocks/zhifutai01",
+    "particle": "yvanchuxiuzhenfulu:blocks/zhifutai01",
+    "0": "yvanchuxiuzhenfulu:blocks/zhifutai01",
+    "1": "yvanchuxiuzhenfulu:blocks/zhifutai02"
+  }
+}

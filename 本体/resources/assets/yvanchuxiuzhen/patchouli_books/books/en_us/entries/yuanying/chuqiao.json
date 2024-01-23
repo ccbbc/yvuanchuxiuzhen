@@ -1,0 +1,12 @@
+{
+    "name": "元婴出窍",
+    "icon": "minecraft:writable_book",
+    "category": "yuanying",
+	"sortnum": 0, 
+    "pages": [
+        {
+            "type": "text",
+            "text": "死亡后或按下出窍按键后自身将获得此buff，同时带有速度2buff，且当前真元减少75%$(br)拥有此buff时，自身将无法突破境界，功法层数，同时自身攻击属性降低50%$(br)出窍后必须使用躯壳进行回复，躯壳的获取需要在副手放置控体符击杀僵尸，修士等概率获取。"
+        }
+    ]
+}

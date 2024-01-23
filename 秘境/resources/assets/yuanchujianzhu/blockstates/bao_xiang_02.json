@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "yuanchujianzhu:bao_xiang_02"
+    },
+    "facing=north": {
+      "model": "yuanchujianzhu:bao_xiang_02"
+    },
+    "facing=east": {
+      "model": "yuanchujianzhu:bao_xiang_02",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "yuanchujianzhu:bao_xiang_02",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "yuanchujianzhu:bao_xiang_02",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "yvanchuxiuzhen:custom/qu_ke_01",
+  "textures": {
+    "missing": "yvanchuxiuzhen:blocks/qu_ke_01"
+  }
+}

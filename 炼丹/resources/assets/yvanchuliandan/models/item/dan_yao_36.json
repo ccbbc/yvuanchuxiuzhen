@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "yvanchuliandan:items/qian_nian_cui_ti_dan_"
+  }
+}

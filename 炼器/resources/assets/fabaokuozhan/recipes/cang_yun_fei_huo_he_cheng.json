@@ -1,0 +1,19 @@
+{
+  "group": "fabaokuozhan",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "yvanchuxiuzhen:huoyan15"
+    },
+    {
+      "item": "yvanchuxiuzhen:huoyan15"
+    },
+    {
+      "item": "yvanchuxiuzhen:huoyan15"
+    }
+  ],
+  "result": {
+    "item": "fabaokuozhan:cang_yun_fei_huo",
+    "count": 1
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "group": "yvanchuliandan",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "yvanchuxiuzhen:cailiaolingshi03"
+    },
+    "1": {
+      "item": "yvanchuxiuzhen:cailiaolingshi03"
+    },
+    "2": {
+      "item": "yvanchuxiuzhen:cailiaolingshi03"
+    },
+    "3": {
+      "item": "yvanchuxiuzhen:cailiaolingshi03"
+    },
+    "4": {
+      "item": "minecraft:potion",
+      "data": 32767
+    },
+    "5": {
+      "item": "yvanchuxiuzhen:cailiaolingshi03"
+    },
+    "6": {
+      "item": "yvanchuxiuzhen:cailiaolingshi03"
+    },
+    "7": {
+      "item": "yvanchuxiuzhen:cailiaolingshi03"
+    },
+    "8": {
+      "item": "yvanchuxiuzhen:cailiaolingshi03"
+    }
+  },
+  "result": {
+    "item": "yvanchuliandan:ling_ye",
+    "nbt": {"TotalTimes" : 8},
+    "count": 1
+  }
+}

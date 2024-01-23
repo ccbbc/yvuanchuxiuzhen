@@ -1,0 +1,17 @@
+{
+    "name": "炼丹",
+    "icon": "minecraft:writable_book",
+    "category": "zhuji",
+	"sortnum": 1, 
+    "pages": [
+        {
+            "type": "text",
+            "text": "当前境界你可以炼制以下丹药：$(br)真元丹，降尘丹，百年回春丹，百年复灵丹，百年龙力丹，百年金刚丹，百年淬体丹 ，百年元阳丹，百年九曲灵丹，百年檀香丹，百年古香丹，长寿丹。"
+        },
+		{
+			"type":"text",
+			"text":"秘境或储物袋内可获得'魔棱丹'，'聚灵丹'。",
+			"right_side":"true"
+		}
+    ]
+}

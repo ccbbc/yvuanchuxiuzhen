@@ -1,0 +1,20 @@
+{
+  "caientity09": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "yvanchuyaoshou:caientity09",
+        "stream": false
+      }
+    ]
+  },
+  "caientity13": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "yvanchuyaoshou:caientity13",
+        "stream": false
+      }
+    ]
+  }
+}

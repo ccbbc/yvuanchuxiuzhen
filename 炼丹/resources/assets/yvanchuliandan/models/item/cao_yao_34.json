@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "yvanchuliandan:items/ju_ling_cao_wu_pin_tie_tu_"
+  }
+}

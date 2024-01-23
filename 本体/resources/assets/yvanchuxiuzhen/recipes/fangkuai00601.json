@@ -1,0 +1,26 @@
+{
+  "group": "yvanchuxiuzhen",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_ingot"
+    },
+    "1": {
+      "item": "yvanchuxiuzhen:fangkuai001"
+    },
+    "2": {
+      "item": "yvanchuxiuzhen:fangkuai001"
+    },
+    "3": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "yvanchuxiuzhen:fangkuai006",
+    "count": 2
+  }
+}

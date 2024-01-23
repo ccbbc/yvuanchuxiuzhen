@@ -1,0 +1,12 @@
+{
+    "name": "炼器",
+    "icon": "minecraft:writable_book",
+    "category": "zhuji",
+	"sortnum": 2, 
+    "pages": [
+        {
+            "type": "text",
+            "text": "当前境界你可以炼制如下法宝：$(br)青虹剑，霹雳弹，解牛刀，腥毒短刀，二阶镇妖剑。$(br)筑基散修掉落：翠竹棍，金玉环。"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "yvanchuxiuzhen:fangkuai003_post"
+      }
+    },
+    {
+      "when": {
+        "north": "true"
+      },
+      "apply": {
+        "model": "yvanchuxiuzhen:fangkuai003",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "south": "true"
+      },
+      "apply": {
+        "model": "yvanchuxiuzhen:fangkuai003",
+        "y": 180,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "west": "true"
+      },
+      "apply": {
+        "model": "yvanchuxiuzhen:fangkuai003",
+        "y": 270,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "east": "true"
+      },
+      "apply": {
+        "model": "yvanchuxiuzhen:fangkuai003",
+        "y": 90,
+        "uvlock": true
+      }
+    }
+  ]
+}

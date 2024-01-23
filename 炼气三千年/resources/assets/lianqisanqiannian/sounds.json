@@ -1,0 +1,12 @@
+{
+  "boom": {
+    "category": "player",
+    "subtitle": "subtitles.boom",
+    "sounds": [
+      {
+        "name": "lianqisanqiannian:boom",
+        "stream": false
+      }
+    ]
+  }
+}

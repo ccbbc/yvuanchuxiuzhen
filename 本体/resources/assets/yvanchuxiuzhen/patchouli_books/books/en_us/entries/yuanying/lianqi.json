@@ -1,0 +1,12 @@
+{
+    "name": "炼器",
+    "icon": "minecraft:writable_book",
+    "category": "yuanying",
+	"sortnum": 2, 
+    "pages": [
+        {
+            "type": "text",
+            "text": "当前境界你可以炼制如下法宝：$(br)石峰拳套，流火幡，四阶镇妖剑，追魂针，元磁神山，燃山剑。$(br)储物袋掉落：圣皇枪，五行剑。$(br)秘境出现：冥海三尖枪。"
+        }
+    ]
+}

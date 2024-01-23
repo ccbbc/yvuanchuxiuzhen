@@ -1,0 +1,12 @@
+{
+    "name": "寿元",
+    "icon": "minecraft:writable_book",
+    "category": "fanren",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "text",
+            "text": "每过半小时（现实时间）会减少1点寿元，每次死亡也会减少一些寿元。$(br)可以通过提升境界、服用丹药、特殊酒酿来提高寿元。$(br)寿元归零既转世轮回，修为尽失。"
+        }
+    ]
+}

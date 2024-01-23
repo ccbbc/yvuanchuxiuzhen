@@ -1,0 +1,6 @@
+{
+  "parent": "yvanchuxiuzhenfulu:custom/the_big_dipper_array",
+  "textures": {
+    "0": "yvanchuxiuzhenfulu:blocks/zongmenzhen"
+  }
+}

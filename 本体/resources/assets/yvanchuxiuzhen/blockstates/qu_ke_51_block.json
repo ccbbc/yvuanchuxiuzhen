@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "yvanchuxiuzhen:qu_ke_51_block"
+    },
+    "facing=north": {
+      "model": "yvanchuxiuzhen:qu_ke_51_block"
+    },
+    "facing=east": {
+      "model": "yvanchuxiuzhen:qu_ke_51_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "yvanchuxiuzhen:qu_ke_51_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "yvanchuxiuzhen:qu_ke_51_block",
+      "y": 270
+    }
+  }
+}

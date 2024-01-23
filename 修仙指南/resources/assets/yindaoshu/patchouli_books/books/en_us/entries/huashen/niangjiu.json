@@ -1,0 +1,12 @@
+{
+    "name": "酿酒",
+    "icon": "minecraft:writable_book",
+    "category": "huashen",
+	"sortnum": 4, 
+    "pages": [
+        {
+            "type": "text",
+            "text": "当前境界可以酿造'清心饮','九仙松醪酒'。"
+        }
+    ]
+}

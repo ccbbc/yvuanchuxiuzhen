@@ -1,0 +1,16 @@
+{
+  "group": "diguoshidai",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "diguoshidai:bookshuoming"
+    },
+    {
+      "item": "minecraft:wooden_sword"
+    }
+  ],
+  "result": {
+    "item": "diguoshidai:book3lianqi",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "yvanchuxiuzhen:custom/deng_long",
+  "textures": {
+    "all": "yvanchuxiuzhen:blocks/deng_long",
+    "particle": "yvanchuxiuzhen:blocks/deng_long",
+    "0": "yvanchuxiuzhen:blocks/deng_long"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "yvanchuxiuzhen:ling_shi_kuai_tai_jie_2"
+    },
+    "half=top,variant=default": {
+      "model": "yvanchuxiuzhen:ling_shi_kuai_tai_jie_2_top"
+    }
+  }
+}

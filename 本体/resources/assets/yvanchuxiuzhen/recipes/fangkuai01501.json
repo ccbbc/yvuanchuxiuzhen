@@ -1,0 +1,42 @@
+{
+  "group": "yvanchuxiuzhen",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "yvanchuxiuzhen:fangkuai005"
+    },
+    "1": {
+      "item": "yvanchuxiuzhen:fangkuai005"
+    },
+    "2": {
+      "item": "yvanchuxiuzhen:fangkuai005"
+    },
+    "3": {
+      "item": "yvanchuxiuzhen:fangkuai005"
+    },
+    "4": {
+      "item": "minecraft:glowstone"
+    },
+    "5": {
+      "item": "yvanchuxiuzhen:fangkuai005"
+    },
+    "6": {
+      "item": "yvanchuxiuzhen:fangkuai005"
+    },
+    "7": {
+      "item": "yvanchuxiuzhen:fangkuai005"
+    },
+    "8": {
+      "item": "yvanchuxiuzhen:fangkuai005"
+    }
+  },
+  "result": {
+    "item": "yvanchuxiuzhen:fangkuai015",
+    "count": 1
+  }
+}

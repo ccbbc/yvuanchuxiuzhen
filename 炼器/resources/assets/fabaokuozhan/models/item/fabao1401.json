@@ -1,0 +1,6 @@
+{
+  "parent": "fabaokuozhan:custom/hun_dun_zhan_gong_1",
+  "textures": {
+    "0": "fabaokuozhan:blocks/hun_dun_zhan_gong_1"
+  }
+}

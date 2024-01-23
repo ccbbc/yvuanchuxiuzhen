@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "yvanchuxiuzhen:zhen_shan_bei"
+    },
+    "facing=north": {
+      "model": "yvanchuxiuzhen:zhen_shan_bei"
+    },
+    "facing=east": {
+      "model": "yvanchuxiuzhen:zhen_shan_bei",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "yvanchuxiuzhen:zhen_shan_bei",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "yvanchuxiuzhen:zhen_shan_bei",
+      "y": 270
+    }
+  }
+}

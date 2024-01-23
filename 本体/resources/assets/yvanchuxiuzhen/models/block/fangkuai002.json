@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_side",
+  "textures": {
+    "wall": "yvanchuxiuzhen:blocks/fangkuai002",
+    "particle": "yvanchuxiuzhen:blocks/fangkuai002"
+  }
+}

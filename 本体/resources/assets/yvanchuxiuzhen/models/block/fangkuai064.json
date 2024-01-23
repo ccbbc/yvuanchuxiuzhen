@@ -1,0 +1,8 @@
+{
+  "parent": "yvanchuxiuzhen:custom/fangkuai064",
+  "textures": {
+    "all": "yvanchuxiuzhen:blocks/fangkuai06401",
+    "particle": "yvanchuxiuzhen:blocks/fangkuai06401",
+    "0": "yvanchuxiuzhen:blocks/fangkuai064"
+  }
+}

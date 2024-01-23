@@ -1,0 +1,39 @@
+{
+  "group": "fabaokuozhan",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fabaokuozhan:cailiao18"
+    },
+    "2": {
+      "item": "fabaokuozhan:cailiao18"
+    },
+    "3": {
+      "item": "fabaokuozhan:cailiao18"
+    },
+    "4": {
+      "item": "fabaokuozhan:cailiao19"
+    },
+    "5": {
+      "item": "fabaokuozhan:cailiao18"
+    },
+    "6": {
+      "item": "fabaokuozhan:cailiao18"
+    },
+    "7": {
+      "item": "fabaokuozhan:lianqi05"
+    },
+    "8": {
+      "item": "fabaokuozhan:cailiao18"
+    }
+  },
+  "result": {
+    "item": "fabaokuozhan:lianqi06",
+    "count": 1
+  }
+}

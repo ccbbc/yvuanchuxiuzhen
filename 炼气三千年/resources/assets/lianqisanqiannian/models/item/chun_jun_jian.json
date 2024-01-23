@@ -1,0 +1,6 @@
+{
+  "parent": "lianqisanqiannian:custom/chun_jun_jian",
+  "textures": {
+    "0": "lianqisanqiannian:blocks/chun_jun_jian"
+  }
+}

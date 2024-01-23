@@ -1,0 +1,6 @@
+{
+  "parent": "fabaokuozhan:custom/zhu_gun_",
+  "textures": {
+    "0": "fabaokuozhan:blocks/zhu_gun_"
+  }
+}

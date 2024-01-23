@@ -1,0 +1,8 @@
+{
+  "parent": "yvanchuxiuzhen:custom/hua_shen_0202",
+  "textures": {
+    "all": "yvanchuxiuzhen:blocks/hua_shen_0202",
+    "particle": "yvanchuxiuzhen:blocks/hua_shen_0202",
+    "missing": "yvanchuxiuzhen:blocks/hua_shen_0202"
+  }
+}

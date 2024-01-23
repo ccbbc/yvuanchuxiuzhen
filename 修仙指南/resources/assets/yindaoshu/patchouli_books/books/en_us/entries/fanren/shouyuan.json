@@ -1,0 +1,12 @@
+{
+    "name": "寿元",
+    "icon": "minecraft:writable_book",
+    "category": "fanren",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "text",
+            "text": "现实中每过半小时，游戏内的寿元便会减少1。每次死亡后也会减少寿元。$(br)寿元的提升只能通过突破自身境界，服用丹药。"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "阵法",
+    "icon": "minecraft:writable_book",
+    "category": "yuanying",
+	"sortnum": 4, 
+    "pages": [
+        {
+            "type": "text",
+            "text": "当前境界可以制作如下阵法：$(br)天雷阵，四方一极阵，渊水阵，伪火阵，鑫鼎阵，万象阵，一意水剑阵，赤魂炼狱阵，七星护山阵。"
+        }
+    ]
+}

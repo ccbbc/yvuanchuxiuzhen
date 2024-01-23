@@ -1,0 +1,6 @@
+{
+  "parent": "yvanchuxiuzhenfulu:custom/zhen_pan_jin_",
+  "textures": {
+    "0": "yvanchuxiuzhenfulu:blocks/zhen2"
+  }
+}

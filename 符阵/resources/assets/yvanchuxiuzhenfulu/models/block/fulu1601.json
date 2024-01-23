@@ -1,0 +1,8 @@
+{
+  "parent": "yvanchuxiuzhenfulu:custom/fulu11",
+  "textures": {
+    "all": "yvanchuxiuzhenfulu:blocks/fulu1101",
+    "particle": "yvanchuxiuzhenfulu:blocks/fulu1101",
+    "0": "yvanchuxiuzhenfulu:blocks/fulu1101"
+  }
+}

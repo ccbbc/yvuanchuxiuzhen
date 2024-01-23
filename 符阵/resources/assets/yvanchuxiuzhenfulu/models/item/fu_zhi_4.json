@@ -1,0 +1,6 @@
+{
+  "parent": "yvanchuxiuzhenfulu:custom/fu_zhi_",
+  "textures": {
+    "missing": "yvanchuxiuzhenfulu:blocks/kong_bai_qing_zhi_"
+  }
+}

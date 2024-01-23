@@ -1,0 +1,8 @@
+{
+  "parent": "yvanchuxiuzhen:custom/xiang_qi",
+  "textures": {
+    "all": "yvanchuxiuzhen:blocks/xiang_qi",
+    "particle": "yvanchuxiuzhen:blocks/xiang_qi",
+    "1": "yvanchuxiuzhen:blocks/xiang_qi"
+  }
+}

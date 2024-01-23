@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "yvanchujiguan:blocks/yuanci_ore",
+    "particle": "yvanchujiguan:blocks/yuanci_ore"
+  }
+}

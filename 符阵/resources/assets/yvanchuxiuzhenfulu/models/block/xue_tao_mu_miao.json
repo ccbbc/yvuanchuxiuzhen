@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "yvanchuxiuzhenfulu:blocks/xie_tao_shu_shu_miao_",
+    "particle": "yvanchuxiuzhenfulu:blocks/xie_tao_shu_shu_miao_"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "探索",
+    "icon": "minecraft:writable_book",
+    "category": "zhuji",
+	"sortnum": 6, 
+    "pages": [
+        {
+            "type": "text",
+            "text": "在世界坐标$(br)x0 y30 z10000$(br)x10000 y30 z0$(br)x0 y30 z-10000$(br)x-10000 y30 z0$(br)以上坐标内会随机生成灵石矿井，其内拥有世界唯一boss白玉蜘蛛。击杀后掉落非常珍贵的宝物。"
+        }
+    ]
+}

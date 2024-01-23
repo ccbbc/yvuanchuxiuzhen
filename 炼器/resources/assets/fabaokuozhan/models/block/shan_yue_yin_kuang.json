@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fabaokuozhan:blocks/sssyyy",
+    "up": "fabaokuozhan:blocks/sssyyy",
+    "north": "fabaokuozhan:blocks/sssyyy",
+    "east": "fabaokuozhan:blocks/sssyyy",
+    "south": "fabaokuozhan:blocks/sssyyy",
+    "west": "fabaokuozhan:blocks/sssyyy",
+    "particle": "fabaokuozhan:blocks/sssyyy"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "yvanchuxiuzhen:custom/wei_qi",
+  "textures": {
+    "all": "yvanchuxiuzhen:blocks/wei_qi",
+    "particle": "yvanchuxiuzhen:blocks/wei_qi",
+    "0": "yvanchuxiuzhen:blocks/wei_qi"
+  }
+}

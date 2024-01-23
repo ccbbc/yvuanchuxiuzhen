@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "yvanchuyaoshou:items/xie_yu_zhi_ci_"
+  }
+}

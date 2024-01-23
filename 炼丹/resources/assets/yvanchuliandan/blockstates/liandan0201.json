@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "yvanchuliandan:liandan0201"
+    },
+    "facing=north": {
+      "model": "yvanchuliandan:liandan0201"
+    },
+    "facing=east": {
+      "model": "yvanchuliandan:liandan0201",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "yvanchuliandan:liandan0201",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "yvanchuliandan:liandan0201",
+      "y": 270
+    }
+  }
+}

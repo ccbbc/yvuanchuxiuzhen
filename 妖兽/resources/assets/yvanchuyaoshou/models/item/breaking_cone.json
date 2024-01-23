@@ -1,0 +1,6 @@
+{
+  "parent": "yvanchuyaoshou:custom/pozhenzhui",
+  "textures": {
+    "0": "yvanchuyaoshou:blocks/pozhenzhui"
+  }
+}

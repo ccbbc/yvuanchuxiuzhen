@@ -1,0 +1,6 @@
+{
+  "parent": "fabaokuozhan:custom/fabao12",
+  "textures": {
+    "0": "fabaokuozhan:blocks/fabao12"
+  }
+}

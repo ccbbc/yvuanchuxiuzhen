@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "yvanchuxiuzhen:blocks/fangkuai001",
+    "up": "yvanchuxiuzhen:blocks/fangkuai001",
+    "north": "yvanchuxiuzhen:blocks/fangkuai001",
+    "east": "yvanchuxiuzhen:blocks/fangkuai001",
+    "south": "yvanchuxiuzhen:blocks/fangkuai001",
+    "west": "yvanchuxiuzhen:blocks/fangkuai001",
+    "particle": "yvanchuxiuzhen:blocks/fangkuai001"
+  }
+}

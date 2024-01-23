@@ -1,0 +1,38 @@
+{
+  "levelup": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "yvanchuxiuzhen:p",
+        "stream": false
+      }
+    ]
+  },
+  "littleup": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "yvanchuxiuzhen:littlep",
+        "stream": false
+      }
+    ]
+  },
+  "baozha": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "yvanchuxiuzhen:baozha",
+        "stream": false
+      }
+    ]
+  },
+  "fafafa": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "yvanchuxiuzhen:fabao0501",
+        "stream": true
+      }
+    ]
+  }
+}

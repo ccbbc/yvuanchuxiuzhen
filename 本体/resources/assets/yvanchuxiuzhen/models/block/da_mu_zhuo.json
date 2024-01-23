@@ -1,0 +1,8 @@
+{
+  "parent": "yvanchuxiuzhen:custom/da_mu_zhuo",
+  "textures": {
+    "all": "yvanchuxiuzhen:blocks/da_mu_zhuo",
+    "particle": "yvanchuxiuzhen:blocks/da_mu_zhuo",
+    "0": "yvanchuxiuzhen:blocks/da_mu_zhuo"
+  }
+}

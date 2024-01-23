@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fanrenxiuxian",
+  "name": "凡人修仙前置",
+  "description": "同步NBT,设置属性,服务端",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["作者:指间青春.策划:琳琅,好像一只鸽.修改:好像一只鸽."],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "assets/fanrenxiuxian/textures/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

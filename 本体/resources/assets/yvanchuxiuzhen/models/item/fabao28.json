@@ -1,0 +1,6 @@
+{
+  "parent": "yvanchuxiuzhen:custom/qian_ling_wan_mai",
+  "textures": {
+    "0": "yvanchuxiuzhen:blocks/qian_ling_wan_mai"
+  }
+}

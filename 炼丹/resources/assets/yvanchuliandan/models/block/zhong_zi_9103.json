@@ -1,0 +1,8 @@
+{
+  "parent": "yvanchuliandan:custom/caoyao09-3",
+  "textures": {
+    "all": "yvanchuliandan:blocks/caoyao09-1",
+    "particle": "yvanchuliandan:blocks/caoyao09-1",
+    "0": "yvanchuliandan:blocks/caoyao09-3"
+  }
+}

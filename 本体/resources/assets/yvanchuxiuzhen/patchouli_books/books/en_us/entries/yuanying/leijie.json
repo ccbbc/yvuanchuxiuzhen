@@ -1,0 +1,12 @@
+{
+    "name": "雷劫",
+    "icon": "minecraft:writable_book",
+    "category": "yuanying",
+	"sortnum": 0, 
+    "pages": [
+        {
+            "type": "text",
+            "text": "到达此境界后，您的每次突破将面临更加危险的雷劫。$(br)雷劫数量固定9道，且煞气每增加200，雷劫数量+1。"
+        }
+    ]
+}

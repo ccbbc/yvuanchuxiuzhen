@@ -1,0 +1,9 @@
+{
+  "parent": "yvanchuliandan:custom/qing_li_shu_gan_",
+  "textures": {
+    "all": "yvanchuliandan:blocks/qing_li_shu__top",
+    "particle": "yvanchuliandan:blocks/qing_li_shu__top",
+    "0": "yvanchuliandan:blocks/qing_li_shu__around",
+    "1": "yvanchuliandan:blocks/qing_li_shu__top"
+  }
+}

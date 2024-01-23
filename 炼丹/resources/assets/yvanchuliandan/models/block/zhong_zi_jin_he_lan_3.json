@@ -1,0 +1,8 @@
+{
+  "parent": "yvanchuliandan:custom/jin_he_lan_-3",
+  "textures": {
+    "all": "yvanchuliandan:blocks/jin_he_lan_-1",
+    "particle": "yvanchuliandan:blocks/jin_he_lan_-1",
+    "0": "yvanchuliandan:blocks/jin_he_lan_-3"
+  }
+}

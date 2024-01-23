@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "yvanchuxiuzhen:blocks/fangkuai002",
+    "particle": "yvanchuxiuzhen:blocks/fangkuai002"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "group": "yvanchuxiuzhen",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_2"
+    },
+    "3": {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_2"
+    },
+    "4": {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_2"
+    },
+    "6": {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_2"
+    },
+    "7": {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_2"
+    },
+    "8": {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_2"
+    }
+  },
+  "result": {
+    "item": "yvanchuxiuzhen:ling_shi_kuai_lou_ti_2",
+    "count": 4
+  }
+}

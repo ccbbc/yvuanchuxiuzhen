@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "yvanchuyaoshou:blocks/mi_shang_cao_3",
+    "particle": "yvanchuyaoshou:blocks/mi_shang_cao_3"
+  }
+}

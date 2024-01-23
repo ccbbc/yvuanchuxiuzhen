@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "fabaokuozhan:blocks/fabao1202",
+    "particle": "fabaokuozhan:blocks/fabao1202"
+  }
+}

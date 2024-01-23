@@ -1,0 +1,27 @@
+{
+  "group": "fubi",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "67 "
+  ],
+  "key": {
+    "2": {
+      "item": "fabaokuozhan:cailiao12"
+    },
+    "4": {
+      "item": "yvanchuxiuzhenfulu:cailiao32"
+    },
+    "6": {
+      "item": "yvanchuxiuzhenfulu:hei_zhu_mao"
+    },
+    "7": {
+      "item": "yvanchuxiuzhenfulu:hei_zhu_jing_xue"
+    }
+  },
+  "result": {
+    "item": "yvanchuxiuzhenfulu:fu_bi_2",
+    "count": 1
+  }
+}

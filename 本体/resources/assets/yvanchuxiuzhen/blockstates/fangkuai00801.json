@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "yvanchuxiuzhen:fangkuai00801"
+    },
+    "facing=south": {
+      "model": "yvanchuxiuzhen:fangkuai00801"
+    },
+    "facing=north": {
+      "model": "yvanchuxiuzhen:fangkuai00801"
+    },
+    "facing=east": {
+      "model": "yvanchuxiuzhen:fangkuai00801",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "yvanchuxiuzhen:fangkuai00801",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "yvanchuxiuzhen:fangkuai00801",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "yvanchuxiuzhen:fangkuai00801",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

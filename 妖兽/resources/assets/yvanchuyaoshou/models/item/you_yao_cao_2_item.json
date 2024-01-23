@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "yvanchuyaoshou:items/mi_shang_cao_2"
+  }
+}

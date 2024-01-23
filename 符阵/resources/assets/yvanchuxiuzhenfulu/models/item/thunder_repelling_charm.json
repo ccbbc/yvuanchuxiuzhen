@@ -1,0 +1,6 @@
+{
+  "parent": "yvanchuxiuzhenfulu:custom/xian_fu_",
+  "textures": {
+    "0": "yvanchuxiuzhenfulu:blocks/xianfu"
+  }
+}

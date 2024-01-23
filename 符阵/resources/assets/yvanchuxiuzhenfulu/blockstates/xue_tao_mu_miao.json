@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "yvanchuxiuzhenfulu:xue_tao_mu_miao"
+    },
+    "facing=north": {
+      "model": "yvanchuxiuzhenfulu:xue_tao_mu_miao"
+    },
+    "facing=east": {
+      "model": "yvanchuxiuzhenfulu:xue_tao_mu_miao",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "yvanchuxiuzhenfulu:xue_tao_mu_miao",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "yvanchuxiuzhenfulu:xue_tao_mu_miao",
+      "y": 270
+    }
+  }
+}

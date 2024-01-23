@@ -1,0 +1,6 @@
+{
+  "parent": "yvanchuliandan:custom/chu_ji_ling_ye_ping_",
+  "textures": {
+    "0": "yvanchuliandan:blocks/chu_ji_ling_ye_ping_"
+  }
+}

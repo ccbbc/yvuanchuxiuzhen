@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "yvanchuliandan:fang_shi_1"
+    },
+    "facing=north": {
+      "model": "yvanchuliandan:fang_shi_1"
+    },
+    "facing=east": {
+      "model": "yvanchuliandan:fang_shi_1",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "yvanchuliandan:fang_shi_1",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "yvanchuliandan:fang_shi_1",
+      "y": 270
+    }
+  }
+}

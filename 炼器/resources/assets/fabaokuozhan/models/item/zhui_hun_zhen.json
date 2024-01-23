@@ -1,0 +1,6 @@
+{
+  "parent": "fabaokuozhan:custom/zhui_hun_zhen_",
+  "textures": {
+    "0": "fabaokuozhan:blocks/zhui_hun_zhen_"
+  }
+}

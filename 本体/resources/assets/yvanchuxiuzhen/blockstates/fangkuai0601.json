@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "yvanchuxiuzhen:fangkuai0601"
+    },
+    "half=top,variant=default": {
+      "model": "yvanchuxiuzhen:fangkuai0601_top"
+    }
+  }
+}

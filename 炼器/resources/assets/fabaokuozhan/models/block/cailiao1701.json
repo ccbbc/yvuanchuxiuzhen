@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fabaokuozhan:blocks/cailiao1701",
+    "particle": "fabaokuozhan:blocks/cailiao1701"
+  }
+}

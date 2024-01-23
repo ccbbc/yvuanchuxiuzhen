@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "wupinmiaosu",
+    "name": "wupinmiaosu",
+    "description": "一个修仙mod的组成~",
+    "version": "2.0.6",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "url": "https://mcreator.net",
+    "updateUrl": "",
+    "authorList": [
+      "XiaYi, MCreator,WIFI"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "parent": "yvanchuliandan:custom/qing_ying_hua_3",
+  "textures": {
+    "all": "yvanchuliandan:blocks/qing_ying_hua_tie_tu_",
+    "particle": "yvanchuliandan:blocks/qing_ying_hua_tie_tu_",
+    "0": "yvanchuliandan:blocks/qing_ying_hua_tie_tu_"
+  }
+}

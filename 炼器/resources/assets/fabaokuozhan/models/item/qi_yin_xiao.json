@@ -1,0 +1,6 @@
+{
+  "parent": "fabaokuozhan:custom/qiyinxiao",
+  "textures": {
+    "0": "fabaokuozhan:blocks/voxel_atlas"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "yvanchuliandan:blocks/leaves_pyrus_fruit_",
+    "up": "yvanchuliandan:blocks/leaves_pyrus_fruit_",
+    "north": "yvanchuliandan:blocks/leaves_pyrus_fruit_",
+    "east": "yvanchuliandan:blocks/leaves_pyrus_fruit_",
+    "south": "yvanchuliandan:blocks/leaves_pyrus_fruit_",
+    "west": "yvanchuliandan:blocks/leaves_pyrus_fruit_",
+    "particle": "yvanchuliandan:blocks/leaves_pyrus_fruit_"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "infinite_storage",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:string"
+    },
+    "1": {
+      "item": "minecraft:leather"
+    },
+    "2": {
+      "item": "minecraft:string"
+    },
+    "3": {
+      "item": "fabaokuozhan:caiitem07"
+    },
+    "4": {
+      "item": "yvanchuxiuzhen:ling_shi_kuai_1"
+    },
+    "5": {
+      "item": "fabaokuozhan:caiitem07"
+    },
+    "6": {
+      "item": "minecraft:leather"
+    },
+    "7": {
+      "item": "fabaokuozhan:caiitem07"
+    },
+    "8": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "infinite_storage:small_bag",
+    "count": 1
+  }
+}

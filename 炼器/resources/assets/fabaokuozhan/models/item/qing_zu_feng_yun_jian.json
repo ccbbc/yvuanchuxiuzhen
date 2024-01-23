@@ -1,0 +1,6 @@
+{
+  "parent": "fabaokuozhan:custom/qingzhufengyunjian",
+  "textures": {
+    "1": "fabaokuozhan:blocks/qingzufengjian"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "yvanchuxiuzhen:blocks/air",
+    "up": "yvanchuxiuzhen:blocks/air",
+    "north": "yvanchuxiuzhen:blocks/air",
+    "east": "yvanchuxiuzhen:blocks/air",
+    "south": "yvanchuxiuzhen:blocks/air",
+    "west": "yvanchuxiuzhen:blocks/air",
+    "particle": "yvanchuxiuzhen:blocks/air"
+  }
+}

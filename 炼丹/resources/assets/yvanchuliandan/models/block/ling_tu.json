@@ -1,0 +1,9 @@
+{
+  "parent": "yvanchuliandan:custom/lingtu",
+  "textures": {
+    "all": "yvanchuliandan:blocks/liandan0302",
+    "particle": "yvanchuliandan:blocks/liandan0302",
+    "0": "yvanchuliandan:blocks/farmland_lingtu_wet",
+    "1": "yvanchuliandan:blocks/farmland_lingtu_dry1"
+  }
+}

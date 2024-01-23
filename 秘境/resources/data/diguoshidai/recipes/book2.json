@@ -1,0 +1,16 @@
+{
+  "group": "diguoshidai",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "diguoshidai:bookshuoming"
+    },
+    {
+      "item": "minecraft:paper"
+    }
+  ],
+  "result": {
+    "item": "diguoshidai:bookzhifu",
+    "count": 1
+  }
+}

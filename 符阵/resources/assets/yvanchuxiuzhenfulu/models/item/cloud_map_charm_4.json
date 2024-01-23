@@ -1,0 +1,6 @@
+{
+  "parent": "yvanchuxiuzhenfulu:custom/the_big_dipper_talisman",
+  "textures": {
+    "0": "yvanchuxiuzhenfulu:blocks/qixingfu"
+  }
+}

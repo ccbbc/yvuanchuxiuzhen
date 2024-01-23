@@ -1,0 +1,16 @@
+{
+  "group": "diguoshidai",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "diguoshidai:bookshuoming"
+    },
+    {
+      "item": "minecraft:coal"
+    }
+  ],
+  "result": {
+    "item": "diguoshidai:book6gongfa",
+    "count": 1
+  }
+}
